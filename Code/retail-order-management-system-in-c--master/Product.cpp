@@ -10,7 +10,7 @@ public:
         Price = 0.0;
         Quantity = 0;
     }
-
+/*Id*/
     void SetProductIDNumber(int idNumber) {
         ProductIDNumber = idNumber;
     }

@@ -39,7 +39,7 @@ public:
     double GetTotalPrice() {
         return TotalpPrice;
     }
-
+/*Product*/
 private:
     int ProductID;
     int OrderID;
